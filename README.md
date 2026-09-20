@@ -85,4 +85,4 @@ Website ini telah dioptimasi untuk:
 - Penggunaan bandwidth yang efisien
 - Kompatibilitas browser
 
-Dibuat dengan ❤️ oleh [HasanH47](https://github.com/HasanH47) untuk momen spesial pernikahan Anda
+Dibuat dengan oleh [Jonathan](https://github.com/JonathanDir)
