@@ -85,10 +85,4 @@ Website ini telah dioptimasi untuk:
 - Penggunaan bandwidth yang efisien
 - Kompatibilitas browser
 
-## Kontribusi
-
-Kontribusi selalu diterima! Silakan buat pull request atau laporkan issues jika menemukan bug.
-
-## Kredit
-
 Dibuat dengan ❤️ oleh [HasanH47](https://github.com/HasanH47) untuk momen spesial pernikahan Anda
