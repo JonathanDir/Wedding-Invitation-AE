@@ -85,10 +85,6 @@ Website ini telah dioptimasi untuk:
 - Penggunaan bandwidth yang efisien
 - Kompatibilitas browser
 
-## Lisensi
-
-MIT License - Silakan gunakan dan modifikasi sesuai kebutuhan
-
 ## Kontribusi
 
 Kontribusi selalu diterima! Silakan buat pull request atau laporkan issues jika menemukan bug.
